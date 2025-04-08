@@ -1,1 +1,5 @@
-Version-1
+git-pull: combines the changes in remote repo to local repo
+git remote -v: Checks which remote repositary is linked to our local repo
+git remote remove origin: removes remote origin which is linked to our local repo
+git push -u origin main: pushes changes from local to remote 
+
