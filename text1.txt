@@ -3,4 +3,10 @@ git remote -v: Checks which remote repositary is linked to our local repo
 git remote remove origin: removes remote origin which is linked to our local repo
 git push -u origin main: pushes changes from local to remote 
 git pull origin main: This will fetch and merge the changes from the remote into your local branch
+str1 = "Hello"
+str1.length: returns length
+str1.toUpperCase: converts to upper Upper
+str1.toLowerCase: converts to lower Lower
+str1.charAt(2): returns char at 2nd index
+str1.indexOf("e"): returns index of e character
 
